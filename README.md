@@ -3,3 +3,5 @@
 - **Autor:** Luis Andrés Rojas García
 - **Dirigido por:** Roberto Álvarez Martínez
 - Universidad Autónoma de Querétaro
+- Maestría en Ciencias Biológicas
+- 2026
