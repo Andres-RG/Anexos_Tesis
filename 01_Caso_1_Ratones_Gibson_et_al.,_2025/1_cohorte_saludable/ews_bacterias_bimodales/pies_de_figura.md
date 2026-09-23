@@ -21,6 +21,3 @@ El caso de \textit{GCA_900066755} destaca debido a que es la única bacteria que
 - `ews_abundancias_bimodal_Ruminococcus.pdf`
 - `ews_abundancias_bimodal_Subdoligranulum.pdf`
 - `ews_abundancias_bimodal_UCG_005.pdf`
-
-- `mapa_estados_Subdoligranulum.pdf`
-- `mapa_estados_UGC_005.pdf`
