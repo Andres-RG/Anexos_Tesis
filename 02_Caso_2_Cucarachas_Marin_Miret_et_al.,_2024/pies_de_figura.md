@@ -1,1 +1,11 @@
-Aqui van los pies de figura
+# Señales de alerta temprana en las metapoblaciones K1 y K2 de cucarachas tratadas
+
+Esta carpeta contiene las señales de alerta temprana univariadas y multivariadas de las metapoblaciones K1 y K2 de cucarachas *Blattella germanica* tratadas con kanamicina, así como los cambios en la abundancia relativa de las poblaciones control. En el cuerpo de la tesis se presentó en detalle únicamente la metapoblación K3, por ser la única con muestreo diario completo durante todo el experimento; el análisis aquí sigue el mismo protocolo.
+
+- **`Abundancias_relativas_control_1_y_2.pdf`**: abundancia relativa (%) de las familias bacterianas dominantes a lo largo del experimento en las dos metapoblaciones control (sin tratamiento antibiótico). Esta figura se referencia en el cuerpo de la tesis para mostrar que las poblaciones control también presentan fluctuaciones en sus abundancias, aunque de menor magnitud que las metapoblaciones tratadas con kanamicina.
+
+- **`EWS_univariadas_diversidad_K1.pdf`** y **`EWS_univariadas_diversidad_K2.pdf`**: señales de alerta temprana univariadas calculadas sobre el índice de Shannon exponencial en las metapoblaciones K1 y K2, respectivamente, mediante el enfoque de ventana expansiva. **a)** Serie de tiempo del índice de Shannon exponencial, con las franjas de color indicando las fases de administración de kanamicina. **b)** Fuerza de los indicadores de alerta temprana univariados a lo largo del tiempo. La línea discontinua indica el umbral de detección 2$\sigma$.
+
+- **`EWS_multivariadas_diversidad_comunidad_K1.pdf`** y **`EWS_multivariadas_diversidad_comunidad_K2.pdf`**: señales de alerta temprana multivariadas calculadas sobre el conjunto completo de índices de diversidad alfa (Shannon exponencial, riqueza, equidad de Pielou, inverso de Simpson y dominancia de Berger-Parker) en las metapoblaciones K1 y K2, respectivamente, mediante el enfoque de ventana expansiva. **a)** Abundancia relativa (%) de las familias bacterianas dominantes a lo largo del experimento, agrupada por fase de perturbación. **b)** Fuerza de los indicadores de alerta temprana multivariados a lo largo del tiempo. Los puntos representan valores en los que la fuerza de al menos un indicador superó el umbral de 2$\sigma$ (línea discontinua), considerándose como una señal de alerta temprana detectada. Las franjas de color indican las fases de administración de kanamicina.
+
+Datos obtenidos de Marín-Miret et al. (2024). Elaboración propia.
